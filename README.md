@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him or They/Them.
 - ⚡ Fun fact: A dime has 118 ridges around the edge.
 
-<!-- - 🌱 I’m currently learning
-- 🤔 I’m looking for help with 
--->
+```
+    |\__/,|   (`\
+  _.|o o  |_   ) )
+-(((---(((--------
+```
