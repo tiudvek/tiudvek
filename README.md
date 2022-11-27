@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on finding a project to work on.
 - 👯 I’m looking to collaborate on anything, really.
-- 📫 How to reach me: tiudvek#4180 on Discord.
+- 📫 How to reach me: [tiudvek#4180 on Discord](https://discord.com/users/999773320788590742).
 - 😄 Pronouns: He/Him or They/Them.
 - ⚡ Fun fact: A dime has 118 ridges around the edge.
 
