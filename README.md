@@ -9,7 +9,7 @@
 <details>
     <summary>Click for statistics</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=tiudvek&show_icons=true&theme=transparent&&hide_border=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiudvek&show_icons=true&theme=transparent&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiudvek&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=10">
 </details>
 
 ```
