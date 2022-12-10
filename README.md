@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him or They/Them.
 - ⚡ Fun fact: A dime has 118 ridges around the edge.
 
+<img src="https://komarev.com/ghpvc/?username=tiudvek&style=for-the-badge"><br>
+
 <details>
     <summary>Click for statistics</summary>
     <img src="https://github-readme-stats.vercel.app/api?username=tiudvek&show_icons=true&theme=transparent&&hide_border=true"><br>
